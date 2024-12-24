@@ -83,7 +83,7 @@ const Footer = () => {
               <li className="text-gray-300">
                 <span className="block">Email:</span>
                 <a href="mailto:support@chanda.com" className="text-gray-300 hover:text-[#10a37f] transition duration-300">
-                  support@chanda.com
+                  support@fundhive.com
                 </a>
               </li>
               <li className="text-gray-300">
