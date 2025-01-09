@@ -83,7 +83,7 @@ const Footer = () => {
               <li className="text-gray-300">
                 <span className="block">Email:</span>
                 <a href="mailto:support@chanda.com" className="text-gray-300 hover:text-[#10a37f] transition duration-300">
-                  support@Fund hive.com
+                  support@fundhive.com
                 </a>
               </li>
               <li className="text-gray-300">
@@ -104,7 +104,7 @@ const Footer = () => {
 
         <div className="mt-8 pt-8 border-t border-gray-700">
           <p className="text-center text-gray-400">
-            © {new Date().getFullYear()} Chanda. All rights reserved.
+            © {new Date().getFullYear()} FundHive. All rights reserved.
           </p>
         </div>
       </div>
